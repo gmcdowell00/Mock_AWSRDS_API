@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mock_AWS_API.props" />
+</Project>

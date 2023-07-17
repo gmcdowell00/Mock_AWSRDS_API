@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FRoFaHdWxtYvb5UBPPoVc1K6E1o1AQw5GvTFL+Xsexs=",
+  "Source": "Mock_AWSRDS_API",
+  "BasePath": "_content/Mock_AWSRDS_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

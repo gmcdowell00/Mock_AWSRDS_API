@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s7zqNNltIarqTRZYH83DdSSYecpvsWbd9ic9L99MKP4=",
+  "Source": "MockPGA_API",
+  "BasePath": "_content/MockPGA_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

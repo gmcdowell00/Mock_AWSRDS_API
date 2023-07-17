@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mock_AWS_API_RDS.props" />
+</Project>
